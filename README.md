@@ -2,14 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Riya Sharma</h1>
 
-## Total Profile Visit 
-<br />
- <div align="center"> 
- 
-
- <img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=riyasharma18.visit-counter'>
-
-</div>
 
 
 ## 🙋‍♂️ About Me
