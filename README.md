@@ -69,4 +69,4 @@
 
 
 </p>
--📫 Reach me out  &nbsp; &nbsp;<a href="https://www.linkedin.com/in/riya-sharma-2a2a48186/"> <img src="https://img.shields.io/badge/-linkedin-blue?style=rounded-square&logo=linkedin" /></a> &nbsp; <a href="mailto:sharmariyasharma1039@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a>&nbsp; </a> &nbsp; <a href="https://leetcode.com/riyasharma18/fcca7e27bae-88a7-4a05-a4f9-85d58239771e"> <img src="https://img.shields.io/badge/-leetcode-black?style=rounded-square&logo=leetcode" /></a>
+-📫 Reach me out  &nbsp; &nbsp;<a href="https://www.linkedin.com/in/riya-sharma-2a2a48186/"> <img src="https://img.shields.io/badge/-linkedin-blue?style=rounded-square&logo=linkedin" /></a> &nbsp; <a href="mailto:sharmariyasharma1039@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a>&nbsp; </a> &nbsp; <a href="https://leetcode.com/riyasharma18/"> <img src="https://img.shields.io/badge/-leetcode-black?style=rounded-square&logo=leetcode" /></a>
