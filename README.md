@@ -1,7 +1,7 @@
 <table border=0>
   <tr border=0>
     <td  border=0>
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋💻+Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Riya+Sharma;&center=true&size=28"></p>
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Riya+Sharma;&center=true&size=28"></p>
     </td>
     <td  border=0>
       <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif">
