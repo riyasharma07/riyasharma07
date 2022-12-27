@@ -1,6 +1,13 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Riya Sharma</h1>
+<table border=0>
+  <tr border=0>
+    <td  border=0>
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋💻+Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Riya+Sharma;&center=true&size=28"></p>
+    </td>
+    <td  border=0>
+      <img src="https://user-images.githubusercontent.com/56646239/155891919-181e1c92-fdcf-4481-96be-0f4c2196c1f5.gif">
+    </td>
+  </tr>
+ </table>
 
 
 
