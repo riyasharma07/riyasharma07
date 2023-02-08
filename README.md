@@ -4,7 +4,7 @@
   <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Riya+Sharma;&center=true&size=28"></p>
     </td>
     <td  border=0>
-      <img src="https://github.com/harsh-sharma-z/harsh-sharma-z/raw/main/monkey-laptop.gif">
+      <img src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif">
     </td>
   </tr>
  </table>
