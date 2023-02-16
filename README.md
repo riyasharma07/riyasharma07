@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[MERN STACK]()**
+- 🔭 I’m currently working on **[Node.js Development]()**
 
 - 🌱 I’m currently learning **[Data Structures and Algorithms.]()**
 
@@ -22,8 +22,6 @@
 
 
 - 📫 How to reach me **sharmariyasharma1039@gmail.com**
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 ## 🚀 Languages and Tools:
 
