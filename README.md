@@ -3,9 +3,9 @@
     <td  border=0>
   <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Riya+Sharma;&center=true&size=28"></p>
     </td>
-    <td  border=0>
+    <!-- <td  border=0>
       <img src="https://media.tenor.com/NiBD3Jj07AYAAAAC/monkey-laptop.gif">
-    </td>
+    </td> -->
   </tr>
  </table>
 
